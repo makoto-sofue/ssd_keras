@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>nut_washer.mp4#t=15.jpg</filename>
+    <path>cut-PascalVOC-export/Annotations/nut_washer.mp4#t=15.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>nut</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>917.7805660450063</xmin>
+        <ymin>139.95888157894737</ymin>
+        <xmax>1018.7917116214551</xmax>
+        <ymax>327.85364251387745</ymax>
+    </bndbox>
+</object><object>
+    <name>washer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>856.2269285604193</xmin>
+        <ymin>468.37998239617593</ymin>
+        <xmax>1067.7188655980272</xmax>
+        <ymax>659.4325898822984</ymax>
+    </bndbox>
+</object><object>
+    <name>nut</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>501.1097892262639</xmin>
+        <ymin>346.80101093493005</ymin>
+        <xmax>682.614080803021</xmax>
+        <ymax>520.4852455540706</ymax>
+    </bndbox>
+</object>
+</annotation>
